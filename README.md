@@ -23,7 +23,8 @@ A local-first, autonomous career strategist and CRM.
 - Features a **Live Autonomous Heartbeat** that highlights background proof-of-agency (scheduling, scraping, and messaging while I sleep).
 
 #### 4. 📱 AppIdeasLab incubator
-- **[ArgumentSaver](https://github.com/hrshitkunwar-tech/ArgumentSaver)**: A React Native app that uses vibe-first communication to gracefully translate and resolve heat-of-the-moment arguments. 
+- **[Prana](https://github.com/hrshitkunwar-tech/Prana)**: Built end-to-end and submitted to the iOS App Store (currently in inspection). A daily check-in application embodying a calm, exuberant "breathing" aesthetic.
+- **[ArgumentSaver](https://github.com/hrshitkunwar-tech/ArgumentSaver)**: A React Native app that uses vibe-first communication to gracefully translate and resolve heat-of-the-moment arguments. Feature-complete and preparing for App Store publishing. 
 
 ---
 
