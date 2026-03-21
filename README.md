@@ -31,7 +31,6 @@ That idea currently shows up across a small ecosystem of public repos.
 | Prana | Daily wellness optimization product with a stronger consumer-product lens | [Prana-App](https://github.com/hrshitkunwar-tech/Prana-App) |
 | Job Search | Local-first AI workbench for job search, matching, and automation | [job](https://github.com/hrshitkunwar-tech/job) |
 | MindFlow | AI memory-graph product for saved knowledge and retrieval | [mindflow](https://github.com/hrshitkunwar-tech/mindflow) |
-| VisionGuide | Screenshot-grounded UI guidance prototype | [VisionGuide](https://github.com/hrshitkunwar-tech/VisionGuide) |
 
 ## How I Build
 
