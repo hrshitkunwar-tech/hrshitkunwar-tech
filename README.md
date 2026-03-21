@@ -1,60 +1,46 @@
 # Harshit Kunwar
 
-Building software that helps people understand, navigate, and eventually automate complex interfaces.
+Building **Navigator**: software interaction infrastructure for the AI-native era.
 
-Current focus: **Navigator** — an AI execution layer for SaaS workflows. Not a copilot that suggests the next step. An agent that understands the interface and helps carry the workflow through.
+I’m interested in a simple question: if software interfaces are observable, why should humans still do all the repetitive operating?
 
-[mindlyft.in](https://mindlyft.in) · [LinkedIn](https://linkedin.com/in/kunwar-harshit) · `hrshit.kunwar@gmail.com`
-
----
+The core bet behind my work is that AI should move from suggestion to execution:
+- understand the live interface
+- retrieve the right procedural context
+- plan the workflow
+- act with verification
 
 ## What I’m Building
 
-I care about a specific problem: modern software is powerful, but still too manual to use well.
+### [Navigator](https://github.com/hrshitkunwar-tech/navigator)
+Flagship thesis repo for an AI execution layer over SaaS workflows: perception, retrieval, reasoning, execution, and memory.
 
-The broader thesis behind my work is:
+### Public Supporting Work
+- [saas-atlas](https://github.com/hrshitkunwar-tech/saas-atlas) — live searchable SaaS directory and docs index at [mindlyft.in](https://mindlyft.in)
+- [mvp](https://github.com/hrshitkunwar-tech/mvp) — earlier proof that browser-native AI guidance inside real tools is viable
+- [job](https://github.com/hrshitkunwar-tech/job) — local-first AI workbench for job search, matching, resume flows, and automation
+- [mindflow](https://github.com/hrshitkunwar-tech/mindflow) — AI memory-graph product for turning saved information into searchable knowledge
 
-- software should be understandable from the interface itself
-- documentation should be retrieved by structure, not just semantic similarity
-- AI should move from suggestion to execution, with verification and auditability
+## How I Work
 
-That idea currently shows up across a small ecosystem of public repos.
+**Architecture first.** I like systems with clear layers and explicit boundaries.
 
-## Selected Repositories
+**Benchmarks before beliefs.** I prefer evidence over trend-following when choosing retrieval and architecture patterns.
 
-| Project | What it shows | Link |
-|---|---|---|
-| Navigator | Flagship thesis: software interaction infrastructure, vector-light retrieval, and execution architecture | [navigator](https://github.com/hrshitkunwar-tech/navigator) |
-| BestWay | Working implementation companion repo for early ScreenSense and module experiments | [BestWay](https://github.com/hrshitkunwar-tech/BestWay) |
-| Navigator MVP | Earlier proof that DOM-aware AI guidance inside real SaaS tools is viable | [mvp](https://github.com/hrshitkunwar-tech/mvp) |
-| SaaS Atlas | Live searchable SaaS directory and documentation index | [saas-atlas](https://github.com/hrshitkunwar-tech/saas-atlas) |
-| Prana | Daily wellness optimization product with a stronger consumer-product lens | [Prana-App](https://github.com/hrshitkunwar-tech/Prana-App) |
-| Job Search | Local-first AI workbench for job search, matching, and automation | [job](https://github.com/hrshitkunwar-tech/job) |
-| MindFlow | AI memory-graph product for saved knowledge and retrieval | [mindflow](https://github.com/hrshitkunwar-tech/mindflow) |
-
-## How I Build
-
-**Architecture first.** I like systems with clear layers, hard boundaries, and explicit tradeoffs. I’d rather know exactly why something exists than move fast into accidental complexity.
-
-**Benchmarks before beliefs.** If I’m making a retrieval or architecture choice, I want evidence before I commit. A lot of my repos reflect that tendency: they are as much about validating the right system shape as they are about shipping features.
-
-**Real products over toy demos.** Even my rougher repos usually point at an actual workflow: navigating SaaS tools, finding docs, job search operations, outreach, or daily wellness tracking.
+**Products over toy demos.** Even the rougher repos here are pointed at real workflows: software onboarding, documentation retrieval, job search operations, or knowledge systems.
 
 ## Background
 
-I’ve spent years close to real software adoption problems across SaaS environments, including Adobe, Freshworks, and New Relic. That shaped how I think: the hardest problem is often not whether software can do something, but whether humans can actually use it reliably at the point of need.
+I’ve spent years close to real software adoption problems across Adobe, Freshworks, and New Relic. That shaped how I think: the hardest part of software is often not capability, but usable execution at the moment of need.
 
-I’m especially interested in the intersection of:
-
+I’m especially interested in:
 - AI agents
 - interface understanding
-- behavioral adoption
-- product systems that become more useful with repeated real-world use
+- retrieval systems that preserve structure
+- product systems that get more useful through repeated real-world use
 
 ## Current Stack
 
 `TypeScript` `Python` `Next.js` `React Native` `Expo` `FastAPI` `Convex` `Supabase` `Claude API` `Ollama` `Chrome Extensions` `Vitest` `Zod`
 
----
-
-I’m most excited by products that feel like new primitives, not just new wrappers.
+[LinkedIn](https://linkedin.com/in/kunwar-harshit) · `hrshit.kunwar@gmail.com`
