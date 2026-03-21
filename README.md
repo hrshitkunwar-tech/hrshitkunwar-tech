@@ -1,43 +1,47 @@
-# Harshit Kunwar — Vibe Coder & Agentic Systems Architect
+# Harshit Kunwar
 
-Building the **infrastructure for the AI-native era**. I am a naturally curious builder focused on *Universal UI Perception* and *Deterministic Agentic Execution*. I don't build "AGI"—I build highly capable, locally-executing, workflow-integrated agent systems that actually do the work.
+Building **Navigator Lab**: a research-and-build system for AI that understands and operates software interfaces.
 
----
+The core thesis:
 
-### 🧠 The Ecosystem (Command Center)
+- software interfaces should be understandable by machines
+- procedural knowledge should be retrieved by structure and utility, not just similarity
+- AI should move from suggestion to verified execution
 
-My work is heavily modular and interconnected. Here is how the systems interact:
+## Navigator Lab
 
-#### 1. 🦇 [clawd](https://github.com/hrshitkunwar-tech/clawd) — The Personal Agent OS
-A terminal-native, identity-driven operating system that orchestrates my tasks. Capable of local model execution, skill-based delegation, and deep Lore tracking. This is the **identity layer**.
+All active work lives under the Navigator Lab umbrella — a set of interlocking systems for interface understanding, workflow execution, and applied AI tooling.
 
-#### 2. 🧪 The Navigator Lab ([NewCodexWay](https://github.com/hrshitkunwar-tech/NewCodexWay))
-The core research and development lab for the **Navigator** family of agentic systems. We are building the infrastructure for AI that doesn't just "chat," but "does."
-- **[BestWay](https://github.com/hrshitkunwar-tech/BestWay)**: Implements novel "RAG for Accessibility Trees" (ScreenSense) to parse and interact with semantic UI elements without brittle bounding boxes.
-- **[VisionGuide](https://github.com/hrshitkunwar-tech/VisionGuide)**: Screenshot-grounded UI analysis using multi-step browser-use reasoning.
-- **[MVP](https://github.com/hrshitkunwar-tech/mvp)**: Extension-based execution layer for browser-native AI guidance.
+### Flagship
 
-#### 3. 🎯 [CareerAgent](https://github.com/hrshitkunwar-tech/job) & [Outreach](https://github.com/hrshitkunwar-tech/outreach)
-A local-first, autonomous career strategist and CRM. 
-- Operates on a **Vibe-Match over Skill-Match** thesis, filtering out corporate bureaucracy for frontier tech opportunities.
-- Features a **Live Autonomous Heartbeat** that highlights background proof-of-agency (scheduling, scraping, and messaging while I sleep).
+**[navigator](https://github.com/hrshitkunwar-tech/navigator)** — the architecture, benchmarks, and thesis. Five-layer execution system: Perception → Knowledge → Reasoning → Execution → Memory.
 
-#### 4. 📱 AppIdeasLab incubator
-- **[Prana](https://github.com/hrshitkunwar-tech/Prana)**: Built end-to-end and submitted to the iOS App Store (currently in inspection). A daily check-in application embodying a calm, exuberant "breathing" aesthetic.
-- **[ArgumentSaver](https://github.com/hrshitkunwar-tech/ArgumentSaver)**: A React Native app that uses vibe-first communication to gracefully translate and resolve heat-of-the-moment arguments. Feature-complete and preparing for App Store publishing. 
+### Lab Tools
 
----
+| Repo | What it is |
+|---|---|
+| [saas-atlas](https://github.com/hrshitkunwar-tech/saas-atlas) | Live SaaS directory and documentation index — data layer for Navigator's knowledge system. Live at [mindlyft.in](https://mindlyft.in) |
+| [mvp](https://github.com/hrshitkunwar-tech/mvp) | Browser-native AI guidance proof of concept — earliest public validation of the Navigator thesis |
+| [job](https://github.com/hrshitkunwar-tech/job) | CareerAgent: local-first AI workbench for job search, vibe-matching, resume tailoring, and autonomous application |
+| [mindflow](https://github.com/hrshitkunwar-tech/mindflow) | AI knowledge graph — turns saved information into structured, searchable memory |
+| [focusos](https://github.com/hrshitkunwar-tech/focusos) | Focus and distraction management — applied interface understanding on personal device state |
 
-### 🛡️ Technical Manifesto
+## What I Optimize For
 
-**Architecture first.** I believe in systems with explicit layers, clear boundaries, and strong internal logic.  
-**Local-First & Sovereign.** I prioritize systems that can run on local compute, reducing reliance on expensive generalized cloud models.  
-**Products over toy demos.** Even my experimental repos are tied to real workflows (job matching, UI control, relationship management) rather than synthetic AI wrappers.  
+**Architecture first.** Explicit layers, clear boundaries, strong internal logic.
 
-### 👨‍💻 Background
-I’ve spent years close to real software adoption problems across high-velocity SaaS environments (New Relic, Adobe, Freshworks). This shaped my approach: the hard part is often not what software can do, but whether it can be used reliably at the moment of need. 
+**Benchmarks before beliefs.** Evidence over trend-following when choosing retrieval and infrastructure patterns.
 
-**Current Stack:**  
-`TypeScript` `Python` `Next.js` `React Native` `FastAPI` `Convex` `Supabase` `Playwright` `Claude API` `Ollama` `Chrome Extensions`
+**Products over toy demos.** Every repo is tied to a real workflow — not a synthetic AI wrapper.
+
+## Background
+
+Years spent close to real software adoption problems across SaaS environments including Adobe, Freshworks, and New Relic. The hard part is rarely what software can do — it's whether it can be used reliably at the moment of need.
+
+Interested in: AI agents · interface understanding · retrieval systems that preserve structure · products that compound through repeated real-world use.
+
+## Stack
+
+`TypeScript` `Python` `Next.js` `React Native` `Expo` `FastAPI` `Convex` `Supabase` `Claude API` `Ollama` `Chrome Extensions` `Vitest` `Zod`
 
 [LinkedIn](https://linkedin.com/in/kunwar-harshit) · `hrshit.kunwar@gmail.com`
