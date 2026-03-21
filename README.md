@@ -1,44 +1,46 @@
 # Harshit Kunwar
 
-Building **Navigator**: software interaction infrastructure for the AI-native era.
+Building **Navigator Lab**: a research-and-build system for AI that understands and operates software interfaces.
 
-The core idea behind my work is simple:
+The core thesis:
 
 - software interfaces should be understandable by machines
 - procedural knowledge should be retrieved by structure and utility, not just similarity
 - AI should move from suggestion to verified execution
 
-## Core Project
+## Navigator Lab
 
-### [navigator](https://github.com/hrshitkunwar-tech/navigator)
-Flagship thesis repo for an AI execution layer over SaaS workflows: perception, retrieval, planning, execution, and memory.
+All active work lives under the Navigator Lab umbrella — a set of interlocking systems for interface understanding, workflow execution, and applied AI tooling.
 
-## Public Supporting Work
+### Flagship
 
-- [saas-atlas](https://github.com/hrshitkunwar-tech/saas-atlas) — live searchable SaaS directory and documentation index at [mindlyft.in](https://mindlyft.in)
-- [mvp](https://github.com/hrshitkunwar-tech/mvp) — earlier proof that browser-native AI guidance inside real tools is viable
-- [job](https://github.com/hrshitkunwar-tech/job) — local-first AI workbench for job search, matching, resume workflows, and automation
-- [mindflow](https://github.com/hrshitkunwar-tech/mindflow) — AI memory graph for turning saved information into structured, searchable knowledge
+**[navigator](https://github.com/hrshitkunwar-tech/navigator)** — the architecture, benchmarks, and thesis. Five-layer execution system: Perception → Knowledge → Reasoning → Execution → Memory.
+
+### Lab Tools
+
+| Repo | What it is |
+|---|---|
+| [saas-atlas](https://github.com/hrshitkunwar-tech/saas-atlas) | Live SaaS directory and documentation index — data layer for Navigator's knowledge system. Live at [mindlyft.in](https://mindlyft.in) |
+| [mvp](https://github.com/hrshitkunwar-tech/mvp) | Browser-native AI guidance proof of concept — earliest public validation of the Navigator thesis |
+| [job](https://github.com/hrshitkunwar-tech/job) | CareerAgent: local-first AI workbench for job search, vibe-matching, resume tailoring, and autonomous application |
+| [mindflow](https://github.com/hrshitkunwar-tech/mindflow) | AI knowledge graph — turns saved information into structured, searchable memory |
+| [focusos](https://github.com/hrshitkunwar-tech/focusos) | Focus and distraction management — applied interface understanding on personal device state |
 
 ## What I Optimize For
 
-**Architecture first.** I like systems with explicit layers, clear boundaries, and strong internal logic.
+**Architecture first.** Explicit layers, clear boundaries, strong internal logic.
 
-**Benchmarks before beliefs.** I prefer evidence over trend-following when choosing retrieval and infrastructure patterns.
+**Benchmarks before beliefs.** Evidence over trend-following when choosing retrieval and infrastructure patterns.
 
-**Products over toy demos.** Even my rougher repos are usually tied to real workflows rather than synthetic AI wrappers.
+**Products over toy demos.** Every repo is tied to a real workflow — not a synthetic AI wrapper.
 
 ## Background
 
-I’ve spent years close to real software adoption problems across SaaS environments including Adobe, Freshworks, and New Relic. That shaped the way I build: the hard part is often not what software can do, but whether it can be used reliably at the moment of need.
+Years spent close to real software adoption problems across SaaS environments including Adobe, Freshworks, and New Relic. The hard part is rarely what software can do — it's whether it can be used reliably at the moment of need.
 
-I’m especially interested in:
-- AI agents
-- interface understanding
-- retrieval systems that preserve structure
-- products that compound through repeated real-world use
+Interested in: AI agents · interface understanding · retrieval systems that preserve structure · products that compound through repeated real-world use.
 
-## Current Stack
+## Stack
 
 `TypeScript` `Python` `Next.js` `React Native` `Expo` `FastAPI` `Convex` `Supabase` `Claude API` `Ollama` `Chrome Extensions` `Vitest` `Zod`
 
