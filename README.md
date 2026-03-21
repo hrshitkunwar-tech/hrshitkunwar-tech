@@ -24,7 +24,8 @@ That idea currently shows up across a small ecosystem of public repos.
 
 | Project | What it shows | Link |
 |---|---|---|
-| Navigator | Flagship thesis: software interaction infrastructure, ScreenSense perception, vector-light retrieval, execution architecture | [BestWay](https://github.com/hrshitkunwar-tech/BestWay) |
+| Navigator | Flagship thesis: software interaction infrastructure, vector-light retrieval, and execution architecture | [navigator](https://github.com/hrshitkunwar-tech/navigator) |
+| BestWay | Working implementation companion repo for early ScreenSense and module experiments | [BestWay](https://github.com/hrshitkunwar-tech/BestWay) |
 | Navigator MVP | Earlier proof that DOM-aware AI guidance inside real SaaS tools is viable | [mvp](https://github.com/hrshitkunwar-tech/mvp) |
 | SaaS Atlas | Live searchable SaaS directory and documentation index | [saas-atlas](https://github.com/hrshitkunwar-tech/saas-atlas) |
 | Prana | Daily wellness optimization product with a stronger consumer-product lens | [Prana-App](https://github.com/hrshitkunwar-tech/Prana-App) |
