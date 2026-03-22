@@ -15,10 +15,7 @@ Sometimes that turns into browser-native operator tooling. Sometimes it turns in
 | [navigator](https://github.com/hrshitkunwar-tech/navigator) | Flagship systems repo for AI that understands and operates software interfaces |
 | [VisionGuide](https://github.com/hrshitkunwar-tech/VisionGuide) | Screenshot-grounded UI guidance with structured reasoning timelines and Chrome extension playback |
 | [job](https://github.com/hrshitkunwar-tech/job) | Local-first autonomous workflow engine for job search, matching, resume tailoring, and application execution |
-| [Prana-App](https://github.com/hrshitkunwar-tech/Prana-App) | Daily wellness app with pattern tracking, vitality snapshots, and AI-generated insights; currently in App Store testing |
-| [saas-atlas](https://github.com/hrshitkunwar-tech/saas-atlas) | Searchable SaaS directory and docs index, live at [mindlyft.in](https://mindlyft.in) |
-| [argumentsaver](https://github.com/hrshitkunwar-tech/argumentsaver) | iOS app that rewrites heated messages into calmer, sendable versions |
-| [zoneguide](https://github.com/hrshitkunwar-tech/zoneguide) | Zero-tooling Chrome MV3 experiment for recording and replaying browser workflows |
+| [saas-atlas](https://github.com/hrshitkunwar-tech/saas-atlas) | Searchable SaaS directory and docs index — 200+ tools, direct documentation links |
 
 ## What Ties It Together
 
