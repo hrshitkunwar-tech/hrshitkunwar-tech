@@ -8,6 +8,8 @@ The core thesis:
 - procedural knowledge should be retrieved by structure and utility, not just similarity
 - AI should move from suggestion to verified execution
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Convex](https://img.shields.io/badge/Convex-FF6154?style=flat-square&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logoColor=white) ![Chrome Extensions](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+
 ## Navigator Lab
 
 All active work lives under the Navigator Lab umbrella — a set of interlocking systems for interface understanding, workflow execution, and applied AI tooling.
@@ -25,6 +27,20 @@ All active work lives under the Navigator Lab umbrella — a set of interlocking
 | [job](https://github.com/hrshitkunwar-tech/job) | CareerAgent: local-first AI workbench for job search, vibe-matching, resume tailoring, and autonomous application |
 | [mindflow](https://github.com/hrshitkunwar-tech/mindflow) | AI knowledge graph — turns saved information into structured, searchable memory |
 | [focusos](https://github.com/hrshitkunwar-tech/focusos) | Focus and distraction management — applied interface understanding on personal device state |
+
+### How They Connect
+
+```
+navigator ─── thesis, benchmarks, docs
+  └── BestWay ─── implementation (private) · ScreenSense · Chrome MV3 · CLaRa 7B
+navigator-backend ─── Convex backend layer · AppIdeasLab experiments
+
+saas-atlas ──── SaaS catalog and docs index · live at mindlyft.in
+job ─────────── CareerAgent · Vibe-Match · Live Thoughts · autonomous applications
+focusos ──────── phone focus tracking · applied interface understanding
+mindflow ─────── knowledge graph · structured memory from saved content
+mvp ──────────── earliest browser-native Navigator proof of concept
+```
 
 ## What I Optimize For
 
