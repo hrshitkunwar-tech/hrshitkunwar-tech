@@ -34,4 +34,12 @@ I build products that make complex software and revenue infrastructure easier to
 - 🚀 GTM Architecture: [mindlyft.io/gtm](https://mindlyft.io/gtm)
 - 📅 Schedule a Technical Review: [calendly.com/hrshit-kunwar/30min](https://calendly.com/hrshit-kunwar/30min)
 - 💼 LinkedIn: [linkedin.com/in/kunwar-harshit](https://linkedin.com/in/kunwar-harshit)
-- ✉️ Email: `founder@mindlyft.io`
+- ✉️ Email: `harshit@mindlyft.io`
+
+
+## Work With Mindlyft / Paid Sprints
+
+- **$500 5-Day Post-Call & CRM Sync Build (Contra Escrow):** [End-to-End Post-Call Automation Sprint](https://contra.com/s/RmWZoMo3-end-to-end-post-call-automation-and-crm-sync-engine?r=harshit_kunwar_m0yu7crm)
+- **30-Min Live GTM Pipeline Teardown (₹1,999 / ~$24):** [Book on Topmate](https://topmate.io/harshit_kunwar/2370556)
+- **Operator Toolkits & Bundles ($29–$59) + Builds:** [Whop Storefront](https://whop.com/mindlyft-io/products/) · [mindlyft.shop](https://mindlyft.shop)
+- **GTM Engineering Services & Pricing:** [mindlyft.io/services](https://mindlyft.io/services) · [mindlyft.io/pricing](https://mindlyft.io/pricing)
